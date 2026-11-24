@@ -1,0 +1,1 @@
+My agent spent forty minutes debugging code I never wrote in a repo I never opened — then asked me to rate its work.
